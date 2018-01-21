@@ -6,7 +6,7 @@ function download(filename, text) {
   pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
 
 encodeURIComponent(text));
-  pom.setAttribute('download', filename);
+  pom.setAttribute('download', 'input');
 
   pom.style.display = 'none';
   document.body.appendChild(pom);
