@@ -1,0 +1,2198 @@
+[
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "08:00:00",
+        "endTime": "08:50:00",
+        "numStudents": 452
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "08:00:00",
+        "endTime": "08:50:00",
+        "numStudents": 400
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "16:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 385
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 170
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 211
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 709
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "20:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 73
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 226
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "16:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 221
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 172
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "17:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 301
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "20:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 434
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 743
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 426
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "16:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 58
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 665
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 452
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 225
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 121
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 202
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 366
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 344
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 277
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 471
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 497
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 435
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 302
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 278
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 472
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 568
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 471
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 531
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 203
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 361
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "17:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 320
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "16:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 268
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 55
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 93
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 634
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "17:10:00",
+        "endTime": "18:30:00",
+        "numStudents": 325
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 663
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 438
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 463
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "14:10:00",
+        "endTime": "15:30:00",
+        "numStudents": 201
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 307
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 196
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 281
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 261
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "14:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 338
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 261
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "13:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 279
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 72
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 62
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "10:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 312
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "18:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 225
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 235
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 121
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 490
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "14:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 463
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 582
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 272
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 364
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 342
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 576
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 500
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 325
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 158
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 470
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 335
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 167
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 59
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 354
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 432
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "18:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 215
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 203
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 425
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 311
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 644
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 142
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 264
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 368
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 489
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 241
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 306
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 549
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 186
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 225
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 312
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 381
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 307
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 368
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 341
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 222
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 183
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "14:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 214
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 261
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 274
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 504
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 270
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 407
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 205
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 155
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "09:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 533
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 259
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 201
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 534
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 190
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 291
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 244
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 427
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 391
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 188
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "09:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 249
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 271
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 287
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 276
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 318
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 291
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 235
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 231
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "13:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 441
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "13:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 149
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 293
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 77
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 263
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 344
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 261
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "18:10:00",
+        "endTime": "19:00:00",
+        "numStudents": 686
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 360
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 75
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 484
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 311
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 192
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 122
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "20:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 447
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 200
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 397
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 371
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "18:10:00",
+        "endTime": "19:30:00",
+        "numStudents": 157
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 120
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 82
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 88
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "17:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 389
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 345
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "17:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 202
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 230
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 222
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 204
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 224
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 263
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 293
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 310
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 335
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 317
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 554
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 60
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "20:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 176
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 344
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 307
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 323
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "18:10:00",
+        "endTime": "19:00:00",
+        "numStudents": 157
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 484
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 74
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 449
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 173
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 333
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "20:10:00",
+        "endTime": "21:00:00",
+        "numStudents": 152
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "18:10:00",
+        "endTime": "19:00:00",
+        "numStudents": 151
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 207
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 197
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 150
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "09:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 450
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "10:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 58
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "14:10:00",
+        "endTime": "15:30:00",
+        "numStudents": 111
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "10:00:00",
+        "endTime": "11:20:00",
+        "numStudents": 122
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 538
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 481
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 306
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 439
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 574
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 540
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 680
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 227
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "18:10:00",
+        "endTime": "19:00:00",
+        "numStudents": 647
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 133
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "numStudents": 403
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 499
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 100
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 301
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "17:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 441
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 528
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 216
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 286
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "10:00:00",
+        "endTime": "11:20:00",
+        "numStudents": 273
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 388
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": null,
+        "endTime": null,
+        "numStudents": 399
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "12:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 659
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "10:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 393
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "08:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 231
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 118
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 236
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "15:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 346
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "15:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 260
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 338
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 439
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 144
+    },
+    {
+        "bldgName": "Sciences Lab Building",
+        "bldgSqft": 152646,
+        "lat": 38.539805,
+        "lon": -121.754833,
+        "startTime": "10:00:00",
+        "endTime": "11:20:00",
+        "numStudents": 369
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 411
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "12:10:00",
+        "endTime": "13:30:00",
+        "numStudents": 81
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 274
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "13:40:00",
+        "endTime": "15:00:00",
+        "numStudents": 328
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 385
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "15:40:00",
+        "endTime": "16:00:00",
+        "numStudents": 309
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "11:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 215
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 345
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 288
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 496
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "10:00:00",
+        "endTime": "11:20:00",
+        "numStudents": 326
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "13:00:00",
+        "endTime": "14:50:00",
+        "numStudents": 383
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "16:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 536
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "09:00:00",
+        "endTime": "09:50:00",
+        "numStudents": 277
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "18:10:00",
+        "endTime": "19:30:00",
+        "numStudents": 373
+    },
+    {
+        "bldgName": "Walker Hall",
+        "bldgSqft": 36740,
+        "lat": 38.539753,
+        "lon": -121.750775,
+        "startTime": "15:10:00",
+        "endTime": "16:30:00",
+        "numStudents": 367
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "14:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 247
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 107
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "10:30:00",
+        "endTime": "11:50:00",
+        "numStudents": 575
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 348
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 588
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "11:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 205
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "13:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 83
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "16:40:00",
+        "endTime": "18:00:00",
+        "numStudents": 366
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "16:10:00",
+        "endTime": "18:00:00",
+        "numStudents": 284
+    },
+    {
+        "bldgName": "Wright Hall",
+        "bldgSqft": 17000,
+        "lat": 38.53878,
+        "lon": -121.747899,
+        "startTime": "15:10:00",
+        "endTime": "16:00:00",
+        "numStudents": 333
+    },
+    {
+        "bldgName": "Giedt Hall",
+        "bldgSqft": 15540,
+        "lat": 38.537818,
+        "lon": -121.75567,
+        "startTime": "12:10:00",
+        "endTime": "15:00:00",
+        "numStudents": 241
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "15:10:00",
+        "endTime": "17:00:00",
+        "numStudents": 195
+    },
+    {
+        "bldgName": "Valley Hall",
+        "bldgSqft": 25000,
+        "lat": 38.532817,
+        "lon": -121.763708,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 259
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "12:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 184
+    },
+    {
+        "bldgName": "Pritchard VMTH",
+        "bldgSqft": 18500,
+        "lat": 38.532072,
+        "lon": -121.764248,
+        "startTime": "10:00:00",
+        "endTime": "10:50:00",
+        "numStudents": 343
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "09:00:00",
+        "endTime": "10:20:00",
+        "numStudents": 399
+    },
+    {
+        "bldgName": "Sproul Hall",
+        "bldgSqft": 53875,
+        "lat": 38.540037,
+        "lon": -121.746887,
+        "startTime": "12:10:00",
+        "endTime": "13:00:00",
+        "numStudents": 567
+    },
+    {
+        "bldgName": "Wellman Hall",
+        "bldgSqft": 47563,
+        "lat": 38.541341,
+        "lon": -121.751413,
+        "startTime": "13:10:00",
+        "endTime": "14:00:00",
+        "numStudents": 403
+    },
+    {
+        "bldgName": "Music Building",
+        "bldgSqft": 20204,
+        "lat": 38.539157,
+        "lon": -121.747361,
+        "startTime": "10:00:00",
+        "endTime": "11:50:00",
+        "numStudents": 181
+    },
+    {
+        "bldgName": "Olson Hall",
+        "bldgSqft": 78526,
+        "lat": 38.540031,
+        "lon": -121.747593,
+        "startTime": "08:00:00",
+        "endTime": "09:20:00",
+        "numStudents": 300
+    },
+    {
+        "bldgName": "Meyer Hall",
+        "bldgSqft": 217503,
+        "lat": 38.534848,
+        "lon": -121.754408,
+        "startTime": "13:40:00",
+        "endTime": "14:00:00",
+        "numStudents": 695
+    }
+]
