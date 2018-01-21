@@ -3,9 +3,7 @@ import json
 import random
 from io import StringIO
 
-
-
-Courses =  json.load(open("/home/mchiao/Desktop/hackDavis/Courselist.json"))
+Courses =  json.load(open("./Courselist.json"))
 
 names = ["Wellman Hall", "Olson Hall", "Giedt Hall", "Music Building", "Pritchard VMTH", "Valley Hall", "Walker Hall","Wright Hall", "Meyer Hall", "Sciences Lab Building", "Sproul Hall"]
 sqft = [47563, 78526, 15540, 20204, 18500, 25000, 36740, 17000, 217503, 152646, 53875]
