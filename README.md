@@ -6,6 +6,7 @@
 - I think that's it. Try to run it and see what it says.
 
 **Use**
+  
 Be sure to change to appropriate directory in main.py. There are 3 locations near the top and one near the bottom
 
 + Open DavisHeatMap.html
