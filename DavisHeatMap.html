@@ -1,20 +1,36 @@
 <!DOCTYPE html>
 <html>
+<script language="Javascript" >
+function download(filename, text) {
+  var pom = document.createElement('a');
+  pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
+
+encodeURIComponent(text));
+  pom.setAttribute('download', filename);
+
+  pom.style.display = 'none';
+  document.body.appendChild(pom);
+
+  pom.click();
+
+  document.body.removeChild(pom);
+}
+</script>
+
 <title>DavisHeatmap</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
-  
-<form class="w3-container w3-card-4" method="GET">
+  <form  class="w3-container w3-card-4" onsubmit="download(this['option'].value, this['option'].value)">
   <h1>Select Your Course Time</h1>
 
   <select class="w3-select w3-border" name="option">
-    <option value="1" " disabled selected>Choose your option</option>
-    <option>	8:00:00	</option>
-	<option>	8:50:00	</option>
-	<option>	9:00:00	</option>
-	<option>	9:20:00	</option>
-	<option>	9:50:00	</option>
+    <option value="1" disabled selected>Choose your option</option>
+    <option>	08:00:00 </option>
+	<option>	08:50:00 </option>
+	<option>	09:00:00 </option>
+	<option>	09:20:00 </option>
+	<option>	09:50:00 </option>
 	<option>	10:00:00 </option>
 	<option>	10:20:00 </option>
 	<option>	10:30:00 </option>
@@ -52,7 +68,10 @@
 	<option>	21:00:00 </option>
 
   </select>
-  <p><button class="w3-btn w3-green" style="border-radius: 9px;">Search</button></p>
+
+
+  <p><button class="w3-btn w3-green" style="border-radius: 9px;" type="submit" value="download"> Search
+</button></p>
 </form>
     
 </body>
