@@ -16,16 +16,32 @@ encodeURIComponent(text));
   document.body.removeChild(pom);
 }
 </script>
-
-<title>DavisHeatmap</title>
+<title>Davis Heat Map</title>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
-  <form  class="w3-container w3-card-4" onsubmit="download(this['option'].value, this['option'].value)">
-  <h1>Select Your Course Time</h1>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('https://i.imgur.com/t32eLXk.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
 
-  <select class="w3-select w3-border" name="option">
-    <option value="1" disabled selected>Choose your option</option>
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-black">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    Davis Heat Map
+  </div>
+  <div class="w3-display-middle">
+    <form  class="w3-container" onsubmit="download(this['option'].value, this['option'].value)">
+  <select class="w3-select" name="option">
+    <option value="1" disabled selected>Choose your Class Time</option>
     <option>	08:00:00 </option>
 	<option>	08:50:00 </option>
 	<option>	09:00:00 </option>
@@ -66,13 +82,14 @@ encodeURIComponent(text));
 	<option>	20:00:00 </option>
 	<option>	20:10:00 </option>
 	<option>	21:00:00 </option>
-
   </select>
-
-
-  <p><button class="w3-btn w3-green" style="border-radius: 9px;" type="submit" value="download"> Search
+      <hr class="w3-border-black w3-display-middle" style="width:60%">
+  <p><button class="w3-display-middle w3-btn w3-green" style="border-radius: 9px; margin-top:50px;" type="submit" value="download"> Search
 </button></p>
 </form>
-    
+  </div>
+</div>
+
+
 </body>
 </html>
