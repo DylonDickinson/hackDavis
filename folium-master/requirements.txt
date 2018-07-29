@@ -1,5 +1,0 @@
-branca
-jinja2
-numpy
-requests
-six

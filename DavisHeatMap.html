@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <script language="Javascript" >
+
 function download(filename, text) {
   var pom = document.createElement('a');
-  pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
-
-encodeURIComponent(text));
+  pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
   pom.setAttribute('download', 'input');
 
   pom.style.display = 'none';
@@ -15,12 +14,14 @@ encodeURIComponent(text));
 
   document.body.removeChild(pom);
 }
+
 </script>
 <title>Davis Heat Map</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
 <style>
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}

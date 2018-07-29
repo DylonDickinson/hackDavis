@@ -1,71 +1,67 @@
-from __future__ import division #gives floating point division
+import time
 import folium
-import os, time
-import numpy as np
 from folium.plugins import HeatMap
+from pathlib import Path
 import json
 import webbrowser
 
-jsonfile = json.load(open("./data.json")) #opens data.json
 
-while not os.path.exists("/home/mchiao/Downloads/input.txt"): #change directory when testing on own computer
-	time.sleep(1)
+def main():
 
-if os.path.isfile("/home/mchiao/Downloads/input.txt"): #make sure to change to own directory
-		inputFile = open('/home/mchiao/Downloads/input.txt',"r")
+    ideal = 7  				 # ideal square ft per person
+    weight_const = 5		 # adjust heat circle color separation
+    bldg_foot_traffic = {}	 # store latitude, longitude, and amount of foot traffic for each building
+    avg_lat = 0				 # average latitude of affected buildings
+    avg_lon = 0				 # average longitude of affected buildings
+    class_times = None       # contains input class data
 
-'''myList = [dic['startTime'] for dic in jsonfile if dic['startTime'] != None] #grabs times from json
-endList = [dic['endTime'] for dic in jsonfile if dic['endTime'] != None]	#same thing
-myList.extend(endList)
-myList = list(sorted(set(myList)))''' #makes it into set, sorts, and then converts back to list
+    in_file = Path('input.txt')  # input data
+    choose_time = Path('DavisHeatMap.html')  # uri to choose time
+    heat_map = Path('map.html')  # uri to see map
 
-userTime = inputFile.read(8) #user input
+    # opens input data
+    with open('data.json') as data:
+        class_times = json.load(data)
 
-totalStudents = [] #number of students, each element is a different building
-ideal = 7 #ideal square ft per person
-data = [] #data for map
+    webbrowser.open(choose_time.resolve().as_uri())
 
-def CalcWeight(students, sqft, ideal): #calculates the weight for heatmap
-	ratio = float(sqft/students)
-	weight = float(ideal/ratio)
-	return weight
+    # wait for input time from browser
+    while not in_file.is_file():
+        time.sleep(1)
 
-def AvgLat(data):
-	avg = 0
-	for i in range(len(data)):
-		avg += data[i][0]
-	return float(avg/len(data))
+    # read input time
+    with open('input.txt') as input_file:
+            user_time = input_file.read(8)
 
-def AvgLon(data):
-	avg = 0
-	for i in range(len(data)):
-		avg += data[i][1]
-	return float(avg/len(data))
+    # go through course schedule calculating foot traffic for each building
+    for course in class_times:
+        if course['startTime'] == user_time or course['endTime'] == user_time:
 
-for course in jsonfile: #gets the data from json and inputs necessary data into data list
-	if course['startTime'] == userTime or course['endTime'] == userTime:
-		if len(data) == 0:
-			totalStudents.append(course['numStudents'])
-			data.append([course['lat'], course['lon'], CalcWeight(totalStudents[0], course['bldgSqft'],ideal)])
-			continue
-		for i in range(len(data)):
-			if course['lat'] == data[i][0] and course['lon'] == data[i][1]:
-				totalStudents[i] += course['numStudents']
-				data[i][2] = CalcWeight(totalStudents[i], course['bldgSqft'], ideal)
-				break
-			else:
-				totalStudents.append(course['numStudents'])
-				data.append([course['lat'], course['lon'], CalcWeight(totalStudents[i+1], course['bldgSqft'],ideal)])
+            # calculate a building's foot traffic value
+            foot_traffic = ideal * course['numStudents'] / course['bldgSqft'] * weight_const
+            if course['bldgName'] not in bldg_foot_traffic:
+                avg_lat += course['lat']
+                avg_lon += course['lon']
+                bldg_foot_traffic[course['bldgName']] = [course['lat'], course['lon'], foot_traffic]
+            else:
+                bldg_foot_traffic[course['bldgName']][2] += foot_traffic
 
-os.remove("/home/mchiao/Downloads/input.txt") #deletes file from Downloads
+    avg_lat /= len(bldg_foot_traffic)
+    avg_lon /= len(bldg_foot_traffic)
 
-m = folium.Map(
-	location=[AvgLat(data), AvgLon(data)],
-	zoom_start = 17
-	)
+    # delete input file
+    in_file.unlink()
 
-HeatMap(data, name ="Traffic", max_val = 1, radius = 45).add_to(m)
+    # set map at averaged position among buildings with traffic
+    m = folium.Map(location=[avg_lat, avg_lon], zoom_start=17)
 
-m.save(os.path.join('results', 'map.html'))
+    # generate and save map file
+    HeatMap(bldg_foot_traffic.values(), name='Traffic', max_val=1, radius=90, min_opacity=0.1).add_to(m)
+    m.save('map.html')
 
-webbrowser.open_new_tab("./results/map.html")
+    # open map
+    webbrowser.open(heat_map.resolve().as_uri())
+
+
+if __name__ == '__main__':
+    main()
