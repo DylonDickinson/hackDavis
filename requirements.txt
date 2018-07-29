@@ -1,4 +1,2 @@
 folium
 pathlib
-json
-webbrowser
