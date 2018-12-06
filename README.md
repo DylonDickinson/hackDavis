@@ -1,4 +1,4 @@
-# Schedule Heat Map
+# Schedule Heat Map for UCDavis
 **WELCOME TO THE APPLICATION**
 
 **Required Modules**
